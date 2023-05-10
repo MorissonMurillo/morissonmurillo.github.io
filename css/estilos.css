@@ -1,10 +1,10 @@
 p {
-    color: red;
-    background-color: blue;
+    color: greenyellow
+    background-color: white;
 }
 body {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 h1 {
-    color:whitesmoke
+    color:pink
 }
