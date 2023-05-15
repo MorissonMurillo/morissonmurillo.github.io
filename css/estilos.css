@@ -1,9 +1,9 @@
 p {
-    color: greenyellow
+    color: rgb(3, 5, 0)
     background-color: white;
 }
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: greenyellow
 }
 h1 {
     color:pink
